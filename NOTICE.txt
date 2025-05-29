@@ -1,0 +1,7 @@
+Este software utiliza las siguientes librerías de terceros:
+
+- PySide6 (LGPL 3.0) © The Qt Company.
+- pdfplumber (MIT) © Jeremy Singer-Vine.
+- openpyxl (MIT) © openpyxl contributors.
+
+Las licencias completas se encuentran en LICENSE.txt.
