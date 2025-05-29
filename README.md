@@ -25,7 +25,7 @@ SUNrise/
 └── NOTICE.txt # Información legal adicional
 
 ## 🚀 Uso Básico
-1. Ejecuta `SUNrise.exe` (Windows 10/11).
+1. Ejecuta `SUNrise 4.2.5.exe` (Windows 10/11).
 2. Arrastra archivos (XML/ZIP/PDF) a la ventana o usa el botón "+ Añadir archivos".
 3. Genera reportes con el botón inferior.
 4. El botón de configuraciones mostrará un menú para modificar características del reporte a generar y para cambiar parámetros de funcionamiento.
@@ -50,7 +50,7 @@ Ver detalles en [LICENSE.txt](LICENSE.txt).
 - Los archivos PDF deben ser válidos (emitidos por SUNAT).
 
 ## 🛠 Soporte
-¿Problemas? Abre un [issue](https://github.com/tu-usuario/SUNrise/issues) en GitHub.
+¿Problemas? Abre un [issue](https://github.com/hL-piero/SUNrise/issues) en GitHub.
 
 ---
 © 2025 [Piero Herrera Larrea](https://github.com/hL-piero/)
