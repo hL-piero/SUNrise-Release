@@ -1,22 +1,23 @@
 # SUNrise 4.2.5
 Registro Integrado para el Sistema Electrónico de SUNAT
 
-![Logo SUNrise]([assets/sunrise.png](https://github.com/hL-piero/SUNrise-Release/blob/main/sunrise.png))
-
+![Logo SUNrise](https://github.com/hL-piero/SUNrise-Release/blob/main/sunrise.png)
 
 Aplicación para procesar documentos electrónicos (XML, ZIP, PDF) de SUNAT, con generación de reportes.
 
 ## 📥 Descarga e Instalación
 
 1. **Descarga los archivos divididos**:
-   - [SUNrise.zip.001](enlace_a_001)
-   - [SUNrise.zip.002](enlace_a_002)
-   - [SUNrise.zip.003](enlace_a_003)
+   - [SUNrise.zip.001](https://github.com/hL-piero/SUNrise-Release/blob/main/SUNrise.zip.001)
+   - [SUNrise.zip.002](https://github.com/hL-piero/SUNrise-Release/blob/main/SUNrise.zip.002)
+   - [SUNrise.zip.003](https://github.com/hL-piero/SUNrise-Release/blob/main/SUNrise.zip.003)
 
 2. **Une los archivos**:
    - Usa [7-Zip](https://www.7-zip.org/) o similar.
    - Coloca los 3 archivos en la misma carpeta.
    - Extrae `SUNrise.zip.001` (se unirán automáticamente).
+
+3. **Contenido del ZIP**:
 
 3. **Contenido del ZIP**:
 SUNrise/
