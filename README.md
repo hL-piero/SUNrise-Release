@@ -1,7 +1,8 @@
 # SUNrise 4.2.5
 Registro Integrado para el Sistema Electrónico de SUNAT
 
-![Logo SUNrise](assets/sunrise.png)
+![Logo SUNrise]([assets/sunrise.png](https://github.com/hL-piero/SUNrise-Release/blob/main/sunrise.png))
+
 
 Aplicación para procesar documentos electrónicos (XML, ZIP, PDF) de SUNAT, con generación de reportes.
 
