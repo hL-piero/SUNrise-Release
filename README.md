@@ -18,14 +18,11 @@ Aplicación para procesar documentos electrónicos (XML, ZIP, PDF) de SUNAT, con
    - Extrae `SUNrise.zip.001` (se unirán automáticamente).
 
 3. **Contenido del ZIP**:
-
-3. **Contenido del ZIP**:
 SUNrise/
 ├── SUNrise 4.2.5.exe # Ejecutable principal
 ├── assets/ # Recursos visuales (íconos, imágenes)
 ├── LICENSE.txt # Licencias de terceros (LGPL 3.0 + MIT)
 └── NOTICE.txt # Información legal adicional
-
 
 ## 🚀 Uso Básico
 1. Ejecuta `SUNrise.exe` (Windows 10/11).
@@ -34,7 +31,7 @@ SUNrise/
 4. El botón de configuraciones mostrará un menú para modificar características del reporte a generar y para cambiar parámetros de funcionamiento.
 5. Botón de limpieza completa de la tabla
 
-![Captura de pantalla](assets/sunrise_ui.png) *(Ejemplo: Reemplaza con tu propia captura)*
+![Captura de pantalla](https://github.com/hL-piero/SUNrise-Release/blob/main/screenshot.png) *(Ejemplo: Reemplaza con tu propia captura)*
 
 ## 📋 Requisitos
 - Windows 10 o superior.
@@ -56,4 +53,4 @@ Ver detalles en [LICENSE.txt](LICENSE.txt).
 ¿Problemas? Abre un [issue](https://github.com/tu-usuario/SUNrise/issues) en GitHub.
 
 ---
-© 2025 [Piero Herrera Larrea](https://github.com/tu-usuario) | [Iconos por Freepik](https://www.flaticon.com) *(opcional)*
+© 2025 [Piero Herrera Larrea](https://github.com/hL-piero/)
