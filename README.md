@@ -31,7 +31,7 @@ SUNrise/
 4. El botón de configuraciones mostrará un menú para modificar características del reporte a generar y para cambiar parámetros de funcionamiento.
 5. Botón de limpieza completa de la tabla
 
-![Captura de pantalla](https://github.com/hL-piero/SUNrise-Release/blob/main/screenshot.png) *(Ejemplo: Reemplaza con tu propia captura)*
+![Captura de pantalla](https://github.com/hL-piero/SUNrise-Release/blob/main/screenshot.png)
 
 ## 📋 Requisitos
 - Windows 10 o superior.
