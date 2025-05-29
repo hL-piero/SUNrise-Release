@@ -31,6 +31,8 @@ SUNrise/
 1. Ejecuta `SUNrise.exe` (Windows 10/11).
 2. Arrastra archivos (XML/ZIP/PDF) a la ventana o usa el botón "+ Añadir archivos".
 3. Genera reportes con el botón inferior.
+4. El botón de configuraciones mostrará un menú para modificar características del reporte a generar y para cambiar parámetros de funcionamiento.
+5. Botón de limpieza completa de la tabla
 
 ![Captura de pantalla](assets/sunrise_ui.png) *(Ejemplo: Reemplaza con tu propia captura)*
 
