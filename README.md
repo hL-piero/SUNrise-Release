@@ -19,10 +19,10 @@ Aplicación para procesar documentos electrónicos (XML, ZIP, PDF) de SUNAT, con
 
 3. **Contenido del ZIP**:
 SUNrise/
-├── SUNrise 4.2.5.exe # Ejecutable principal
-├── assets/ # Recursos visuales (íconos, imágenes)
-├── LICENSE.txt # Licencias de terceros (LGPL 3.0 + MIT)
-└── NOTICE.txt # Información legal adicional
+- SUNrise 4.2.5.exe # Ejecutable principal
+- assets/ # Recursos visuales (íconos, imágenes)
+- LICENSE.txt # Licencias de terceros (LGPL 3.0 + MIT)
+- NOTICE.txt # Información legal adicional
 
 ## 🚀 Uso Básico
 1. Ejecuta `SUNrise 4.2.5.exe` (Windows 10/11).
